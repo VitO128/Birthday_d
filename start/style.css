@@ -1,0 +1,14 @@
+body {
+    background-color: beige;
+}
+p {
+    color: cornflowerblue;
+}
+button {
+    background-color: bisque;
+    background-attachment: fixed;
+    border: 2px solid #9da6fa;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+}

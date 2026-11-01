@@ -1,0 +1,13 @@
+body {
+    background: 
+    linear-gradient(180deg, #4169E1, #4B0082);
+    background-attachment: fixed;
+}
+button {
+    background-color: aquamarine;
+    background-attachment: fixed;
+    border: 2px solid #5252ff;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+}

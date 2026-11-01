@@ -1,0 +1,13 @@
+body {
+    background-color: #8585e7;
+}
+button {
+    background-color: cornflowerblue;
+    border: 2px solid #000b6e;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.pacifico {
+    font-family: "Pacifico";
+}
